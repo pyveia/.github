@@ -1,7 +1,6 @@
 <div align="center">
-
-
-  <img src="[https://github.com/user-attachments/assets/aeb480df-35c9-4bc4-beb0-00dadc275780](https://github.com/user-attachments/assets/2d815b82-b641-4f39-aad7-b0c1cd5a0b0a)" alt="Python na Veia" />
+  
+  ![header png](https://github.com/user-attachments/assets/f6c86fae-4a4d-43d0-ad61-cf4dfda9b222)
 
   <h2><strong>Projetos reais • Entrevistas • Código que aprova</strong></h2>
 
@@ -32,13 +31,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://pyveia.com.br">
-    <img src="https://img.shields.io/badge/LISTA VIP – R$ 197-%23B30011?style=for-the-badge&logo=none&logoColor=white" height="46"/>
+    <img src="https://img.shields.io/badge/LISTA%20VIP%20–%20R$%20197-%23B30011?style=for-the-badge&logo=none&logoColor=white" height="46"/>
   </a>
 
-  <!-- Dripping minúsculo e discreto (só um detalhe) -->
-  <img src="https://raw.githubusercontent.com/denisidoro/navi/master/docs/cheat-sheet-preview.png" height="80" />
-
-  <!-- Alternativa: use só uma linha vermelha fina se quiser ainda mais clean -->
-  <!-- <hr style="border: 2px solid #B30011; border-radius: 2px; width: 60%;"> -->
+  <!-- Linha vermelha fina e elegante no final (sem dripping gigante) -->
+  <hr style="border: 3px solid #B30011; border-radius: 3px; width: 60%; margin: 40px auto;">
 
 </div>
